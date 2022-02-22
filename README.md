@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ishan S Dulanjana</h1>
 <h3 align="center">I am a Computer Science Undergraduate Student at NSBM Green University in Sri Lanka.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishansdulanjana&label=Profile%20views&color=0e75b6&style=flat" alt="ishansdulanjana" /> </p>
 
